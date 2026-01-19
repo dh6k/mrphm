@@ -1,10 +1,10 @@
-# mrph builder
+# mrphm builder
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/morphe_magisk)
-[![CI](https://github.com/dh6k/mrph/actions/workflows/ci.yml/badge.svg?event=schedule)](https://github.com/dh6k/mrph/actions/workflows/ci.yml)
+[![CI](https://github.com/dh6k/mrph/actions/workflows/ci.yml/badge.svg?event=schedule)](https://github.com/dh6k/mrphm/actions/workflows/ci.yml)
 
 Extensive Morphe builder for personal use, compatible with [Obtainium](https://github.com/ImranR98/Obtainium)
 
-Get the [latest CI release](https://github.com/dh6k/mrph/releases).
+Get the [latest CI release](https://github.com/dh6k/mrphm/releases).
 
 Use [**zygisk-detach**](https://github.com/j-hc/zygisk-detach) to detach YouTube and YT Music from Play Store if you are using magisk modules. 
 
@@ -36,12 +36,12 @@ also see here [`CONFIG.md`](./CONFIG.md)
 ## Building Locally
 ### On Termux
 ```console
-bash <(curl -sSf https://raw.githubusercontent.com/dh6k/mrph/main/build-termux.sh)
+bash <(curl -sSf https://raw.githubusercontent.com/dh6k/mrphm/main/build-termux.sh)
 ```
 
 ### On Desktop
 ```console
-$ git clone https://github.com/dh6k/mrph
-$ cd mrph
+$ git clone https://github.com/dh6k/mrphm
+$ cd mrphm
 $ ./build.sh
 ```
