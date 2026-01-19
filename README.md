@@ -2,7 +2,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/morphe_magisk)
 [![CI](https://github.com/dh6k/mrph/actions/workflows/ci.yml/badge.svg?event=schedule)](https://github.com/dh6k/mrphm/actions/workflows/ci.yml)
 
-Extensive Morphe builder for personal use, compatible with [Obtainium](https://github.com/ImranR98/Obtainium)
+Extensive Morphe (music) builder for personal use, compatible with [Obtainium](https://github.com/ImranR98/Obtainium)
 
 Get the [latest CI release](https://github.com/dh6k/mrphm/releases).
 
