@@ -8,8 +8,8 @@ cli-source = "MorpheApp/morphe-cli"
 
 # you can use rvmm-config-gen to generate a config
 [Music-Morphe]
-app-name = "Music"
-rv-brand = "Morphe"
+app-name = "ytm"
+rv-brand = "mrph"
 build-mode = "both"
 arch = "both"
 patches-version = "dev"
