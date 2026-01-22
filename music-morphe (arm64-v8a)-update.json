@@ -1,6 +1,6 @@
 {
-  "version": "v9.02.50 (patches dev.5.mpp)",
-  "versionCode": 4,
-  "zipUrl": "https://github.com/dh6k/mrphm/releases/download/4/ytm-mrph-magisk-v9.02.50-arm64-v8a.zip",
+  "version": "v9.03.52 (patches dev.7.mpp)",
+  "versionCode": 5,
+  "zipUrl": "https://github.com/dh6k/mrphm/releases/download/5/ytm-mrph-magisk-v9.03.52-arm64-v8a.zip",
   "changelog": "https://raw.githubusercontent.com/dh6k/mrphm/update/build.md"
 }
